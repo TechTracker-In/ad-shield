@@ -1,7 +1,7 @@
 /* 
 It Enable's Ad Sheild in Your Website
 1. Copy and Paste this :
-    <script async defer src="https://element-remover.github.io/assets/static/js/adshield.js" onload="adShield.init(allowedClicks, resetInDays)"></script>
+    <script async defer src="https://raw.githubusercontent.com/TechTracker-In/ad-shield/main/ad-shield.js" onload="adShield.init(allowedClicks, resetInDays)"></script>
 2. Replace the allowedClicks and resetInDays according to your need in Number
 */
 console.log("🤖 AdShield v3.1")
